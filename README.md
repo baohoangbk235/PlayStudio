@@ -1,4 +1,9 @@
 # PlayStudio setup
+## Clone project
+```console
+https://github.com/baohoangbk235/PlayStudio.git
+```
+
 ## Back End
 ```console
 cd PlayStudio\playstudio.server
