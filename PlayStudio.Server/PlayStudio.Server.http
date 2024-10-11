@@ -1,0 +1,6 @@
+@PlayStudio.Server_HostAddress = https://localhost:7245
+
+GET {{PlayStudio.Server_HostAddress}}/gameclub/clubs
+Accept: application/json
+
+###

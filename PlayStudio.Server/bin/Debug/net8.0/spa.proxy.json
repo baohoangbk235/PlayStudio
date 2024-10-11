@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "",
+"RedirectUrl": "",
+"LaunchCommand": "",
+"WorkingDirectory": "E:\\Side Project\\PlayStudio\\PlayStudio.Server",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
