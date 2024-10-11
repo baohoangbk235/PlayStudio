@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\PlayStudio.Server.props" />
-</Project>

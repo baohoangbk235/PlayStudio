@@ -11,12 +11,12 @@ namespace PlayStudio.Server.Model
         public Guid Id { get; set; }
 
         [MaxLength(20)]
-        public string Name { get; set; }
+        public string Name { get; set; } = string.Empty;
 
         [MaxLength(255)]
-        public string? Description { get; set; }
+        public string Description { get; set; } = string.Empty;
 
         [JsonIgnore]
-        public ICollection<ClubEvent> Events { get; } = new List<ClubEvent>();
+        public ICollection<ClubEvent> Events { get; } = [];
     }
 }

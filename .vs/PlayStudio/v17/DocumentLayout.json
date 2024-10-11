@@ -1,46 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Side Project\\PlayStudio\\",
+  "WorkspaceRootPath": "E:\\PlayStudio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1200DD9B-88B4-4903-9EF2-EEB3602B2528}|PlayStudio.Server\\PlayStudio.Server.csproj|e:\\side project\\playstudio\\playstudio.server\\controllers\\gameclubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1200DD9B-88B4-4903-9EF2-EEB3602B2528}|PlayStudio.Server\\PlayStudio.Server.csproj|solutionrelative:playstudio.server\\controllers\\gameclubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1200DD9B-88B4-4903-9EF2-EEB3602B2528}|PlayStudio.Server\\PlayStudio.Server.csproj|e:\\playstudio\\playstudio.server\\extensions\\servicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1200DD9B-88B4-4903-9EF2-EEB3602B2528}|PlayStudio.Server\\PlayStudio.Server.csproj|solutionrelative:playstudio.server\\extensions\\servicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1200DD9B-88B4-4903-9EF2-EEB3602B2528}|PlayStudio.Server\\PlayStudio.Server.csproj|e:\\side project\\playstudio\\playstudio.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1200DD9B-88B4-4903-9EF2-EEB3602B2528}|PlayStudio.Server\\PlayStudio.Server.csproj|solutionrelative:playstudio.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1200DD9B-88B4-4903-9EF2-EEB3602B2528}|PlayStudio.Server\\PlayStudio.Server.csproj|e:\\playstudio\\playstudio.server\\extensions\\appsetupextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1200DD9B-88B4-4903-9EF2-EEB3602B2528}|PlayStudio.Server\\PlayStudio.Server.csproj|solutionrelative:playstudio.server\\extensions\\appsetupextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7450500-7CEA-48DD-B9C9-6EC6216CD78C}|playstudio.client\\playstudio.client.esproj|e:\\side project\\playstudio\\playstudio.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D7450500-7CEA-48DD-B9C9-6EC6216CD78C}|playstudio.client\\playstudio.client.esproj|solutionrelative:playstudio.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1200DD9B-88B4-4903-9EF2-EEB3602B2528}|PlayStudio.Server\\PlayStudio.Server.csproj|e:\\side project\\playstudio\\playstudio.server\\playstudio.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{1200DD9B-88B4-4903-9EF2-EEB3602B2528}|PlayStudio.Server\\PlayStudio.Server.csproj|solutionrelative:playstudio.server\\playstudio.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7450500-7CEA-48DD-B9C9-6EC6216CD78C}|playstudio.client\\playstudio.client.esproj|e:\\side project\\playstudio\\playstudio.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D7450500-7CEA-48DD-B9C9-6EC6216CD78C}|playstudio.client\\playstudio.client.esproj|solutionrelative:playstudio.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1200DD9B-88B4-4903-9EF2-EEB3602B2528}|PlayStudio.Server\\PlayStudio.Server.csproj|e:\\side project\\playstudio\\playstudio.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1200DD9B-88B4-4903-9EF2-EEB3602B2528}|PlayStudio.Server\\PlayStudio.Server.csproj|solutionrelative:playstudio.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1200DD9B-88B4-4903-9EF2-EEB3602B2528}|PlayStudio.Server\\PlayStudio.Server.csproj|e:\\side project\\playstudio\\playstudio.server\\playstudio.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{1200DD9B-88B4-4903-9EF2-EEB3602B2528}|PlayStudio.Server\\PlayStudio.Server.csproj|e:\\playstudio\\playstudio.server\\playstudio.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1200DD9B-88B4-4903-9EF2-EEB3602B2528}|PlayStudio.Server\\PlayStudio.Server.csproj|solutionrelative:playstudio.server\\playstudio.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1200DD9B-88B4-4903-9EF2-EEB3602B2528}|PlayStudio.Server\\PlayStudio.Server.csproj|e:\\side project\\playstudio\\playstudio.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1200DD9B-88B4-4903-9EF2-EEB3602B2528}|PlayStudio.Server\\PlayStudio.Server.csproj|solutionrelative:playstudio.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1200DD9B-88B4-4903-9EF2-EEB3602B2528}|PlayStudio.Server\\PlayStudio.Server.csproj|e:\\playstudio\\playstudio.server\\model\\clubevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1200DD9B-88B4-4903-9EF2-EEB3602B2528}|PlayStudio.Server\\PlayStudio.Server.csproj|solutionrelative:playstudio.server\\model\\clubevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1200DD9B-88B4-4903-9EF2-EEB3602B2528}|PlayStudio.Server\\PlayStudio.Server.csproj|e:\\side project\\playstudio\\playstudio.server\\model\\gameclub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1200DD9B-88B4-4903-9EF2-EEB3602B2528}|PlayStudio.Server\\PlayStudio.Server.csproj|solutionrelative:playstudio.server\\model\\gameclub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1200DD9B-88B4-4903-9EF2-EEB3602B2528}|PlayStudio.Server\\PlayStudio.Server.csproj|e:\\side project\\playstudio\\playstudio.server\\context\\playstudiocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1200DD9B-88B4-4903-9EF2-EEB3602B2528}|PlayStudio.Server\\PlayStudio.Server.csproj|solutionrelative:playstudio.server\\context\\playstudiocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1200DD9B-88B4-4903-9EF2-EEB3602B2528}|PlayStudio.Server\\PlayStudio.Server.csproj|e:\\playstudio\\playstudio.server\\controllers\\clubscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1200DD9B-88B4-4903-9EF2-EEB3602B2528}|PlayStudio.Server\\PlayStudio.Server.csproj|solutionrelative:playstudio.server\\controllers\\clubscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,137 +30,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.jsx",
-              "DocumentMoniker": "E:\\Side Project\\PlayStudio\\playstudio.client\\src\\App.jsx",
-              "RelativeDocumentMoniker": "playstudio.client\\src\\App.jsx",
-              "ToolTip": "E:\\Side Project\\PlayStudio\\playstudio.client\\src\\App.jsx",
-              "RelativeToolTip": "playstudio.client\\src\\App.jsx",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-10-11T06:39:23.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "E:\\Side Project\\PlayStudio\\PlayStudio.Server\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "PlayStudio.Server\\Properties\\launchSettings.json",
-              "ToolTip": "E:\\Side Project\\PlayStudio\\PlayStudio.Server\\Properties\\launchSettings.json",
-              "RelativeToolTip": "PlayStudio.Server\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-11T06:22:20.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Side Project\\PlayStudio\\PlayStudio.Server\\appsettings.json",
-              "RelativeDocumentMoniker": "PlayStudio.Server\\appsettings.json",
-              "ToolTip": "E:\\Side Project\\PlayStudio\\PlayStudio.Server\\appsettings.json",
-              "RelativeToolTip": "PlayStudio.Server\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-11T06:11:03.806Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "vite.config.js",
-              "DocumentMoniker": "E:\\Side Project\\PlayStudio\\playstudio.client\\vite.config.js",
-              "RelativeDocumentMoniker": "playstudio.client\\vite.config.js",
-              "ToolTip": "E:\\Side Project\\PlayStudio\\playstudio.client\\vite.config.js",
-              "RelativeToolTip": "playstudio.client\\vite.config.js",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAAC4AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-11T04:42:41.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PlayStudio.Server",
-              "DocumentMoniker": "E:\\Side Project\\PlayStudio\\PlayStudio.Server\\PlayStudio.Server.csproj",
-              "RelativeDocumentMoniker": "PlayStudio.Server\\PlayStudio.Server.csproj",
-              "ToolTip": "E:\\Side Project\\PlayStudio\\PlayStudio.Server\\PlayStudio.Server.csproj",
-              "RelativeToolTip": "PlayStudio.Server\\PlayStudio.Server.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-11T04:42:24.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PlayStudioContext.cs",
-              "DocumentMoniker": "E:\\Side Project\\PlayStudio\\PlayStudio.Server\\Context\\PlayStudioContext.cs",
-              "RelativeDocumentMoniker": "PlayStudio.Server\\Context\\PlayStudioContext.cs",
-              "ToolTip": "E:\\Side Project\\PlayStudio\\PlayStudio.Server\\Context\\PlayStudioContext.cs",
-              "RelativeToolTip": "PlayStudio.Server\\Context\\PlayStudioContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T15:12:46.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GameClubController.cs",
-              "DocumentMoniker": "E:\\Side Project\\PlayStudio\\PlayStudio.Server\\Controllers\\GameClubController.cs",
-              "RelativeDocumentMoniker": "PlayStudio.Server\\Controllers\\GameClubController.cs",
-              "ToolTip": "E:\\Side Project\\PlayStudio\\PlayStudio.Server\\Controllers\\GameClubController.cs",
-              "RelativeToolTip": "PlayStudio.Server\\Controllers\\GameClubController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA5wCoAAAA5AAAAAAAAAA==",
+              "Title": "ServicesExtension.cs",
+              "DocumentMoniker": "E:\\PlayStudio\\PlayStudio.Server\\Extensions\\ServicesExtension.cs",
+              "RelativeDocumentMoniker": "PlayStudio.Server\\Extensions\\ServicesExtension.cs",
+              "ToolTip": "E:\\PlayStudio\\PlayStudio.Server\\Extensions\\ServicesExtension.cs",
+              "RelativeToolTip": "PlayStudio.Server\\Extensions\\ServicesExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T14:36:46.497Z",
+              "WhenOpened": "2024-10-11T17:14:37.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Side Project\\PlayStudio\\PlayStudio.Server\\Program.cs",
-              "RelativeDocumentMoniker": "PlayStudio.Server\\Program.cs",
-              "ToolTip": "E:\\Side Project\\PlayStudio\\PlayStudio.Server\\Program.cs",
-              "RelativeToolTip": "PlayStudio.Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Title": "AppSetupExtension.cs",
+              "DocumentMoniker": "E:\\PlayStudio\\PlayStudio.Server\\Extensions\\AppSetupExtension.cs",
+              "RelativeDocumentMoniker": "PlayStudio.Server\\Extensions\\AppSetupExtension.cs",
+              "ToolTip": "E:\\PlayStudio\\PlayStudio.Server\\Extensions\\AppSetupExtension.cs",
+              "RelativeToolTip": "PlayStudio.Server\\Extensions\\AppSetupExtension.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAvwBAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T14:28:50.433Z",
+              "WhenOpened": "2024-10-11T17:08:11.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GameClub.cs",
-              "DocumentMoniker": "E:\\Side Project\\PlayStudio\\PlayStudio.Server\\Model\\GameClub.cs",
-              "RelativeDocumentMoniker": "PlayStudio.Server\\Model\\GameClub.cs",
-              "ToolTip": "E:\\Side Project\\PlayStudio\\PlayStudio.Server\\Model\\GameClub.cs",
-              "RelativeToolTip": "PlayStudio.Server\\Model\\GameClub.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBMAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T05:06:23.782Z",
+              "DocumentIndex": 2,
+              "Title": "PlayStudio.Server.csproj",
+              "DocumentMoniker": "E:\\PlayStudio\\PlayStudio.Server\\PlayStudio.Server.csproj",
+              "RelativeDocumentMoniker": "PlayStudio.Server\\PlayStudio.Server.csproj",
+              "ToolTip": "E:\\PlayStudio\\PlayStudio.Server\\PlayStudio.Server.csproj",
+              "RelativeToolTip": "PlayStudio.Server\\PlayStudio.Server.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T15:35:56.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PlayStudio.Server.http",
-              "DocumentMoniker": "E:\\Side Project\\PlayStudio\\PlayStudio.Server\\PlayStudio.Server.http",
-              "RelativeDocumentMoniker": "PlayStudio.Server\\PlayStudio.Server.http",
-              "ToolTip": "E:\\Side Project\\PlayStudio\\PlayStudio.Server\\PlayStudio.Server.http",
-              "RelativeToolTip": "PlayStudio.Server\\PlayStudio.Server.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-10-11T05:12:16.582Z",
-              "EditorCaption": ""
+              "Title": "ClubEvent.cs",
+              "DocumentMoniker": "E:\\PlayStudio\\PlayStudio.Server\\Model\\ClubEvent.cs",
+              "RelativeDocumentMoniker": "PlayStudio.Server\\Model\\ClubEvent.cs",
+              "ToolTip": "E:\\PlayStudio\\PlayStudio.Server\\Model\\ClubEvent.cs",
+              "RelativeToolTip": "PlayStudio.Server\\Model\\ClubEvent.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:26:10.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClubsController.cs",
+              "DocumentMoniker": "E:\\PlayStudio\\PlayStudio.Server\\Controllers\\ClubsController.cs",
+              "RelativeDocumentMoniker": "PlayStudio.Server\\Controllers\\ClubsController.cs",
+              "ToolTip": "E:\\PlayStudio\\PlayStudio.Server\\Controllers\\ClubsController.cs",
+              "RelativeToolTip": "PlayStudio.Server\\Controllers\\ClubsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:54:12.753Z"
             }
           ]
         }

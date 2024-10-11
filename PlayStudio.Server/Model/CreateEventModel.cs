@@ -2,10 +2,10 @@
 {
       public class CreateEventModel
       {
-            public string Title { get; set; }
+            public string Title { get; set; } = string.Empty;
 
             public string? Description { get; set; }
 
-            public DateTime ScheduledDateTime { get; set; }
+            public string ScheduledDateTime { get; set; } = string.Empty;
       }
 }
